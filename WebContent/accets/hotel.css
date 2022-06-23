@@ -1,0 +1,86 @@
+.places{
+    margin-top: 0px;
+}
+.places__title p{
+    margin-right: 0;
+    width: 126px;
+}
+.select_date{
+    margin-right: 0;
+}
+.offer__item1{
+    background-image: url("../img/Hotel-img/Trip_Package/1.svg");
+    background-repeat: no-repeat;
+}
+.offer__item2{
+    background-image: url("../img/Hotel-img/Trip_Package/2.svg");
+    background-repeat: no-repeat;
+}
+.offer__item3{
+    background-image: url("../img/Hotel-img/Trip_Package/3.png");
+    background-repeat: no-repeat;
+}
+.offer__item4{
+    background-image: url("../img/Hotel-img/Trip_Package/4.png");
+    background-repeat: no-repeat;
+    background-size: 322px 208px;
+}
+.offer__item5{
+    background-image: url("../img/Hotel-img/Trip_Package/6.png");
+    background-repeat: no-repeat;
+    background-size: 322px 226px;
+}
+.offer__item6{
+    background-image: url("../img/Hotel-img/Trip_Package/5.png");
+    background-repeat: no-repeat;
+    background-size: 322px 226px;
+}
+
+.offer__item {
+    width: 330px;
+    cursor:default;
+}
+.sub--title{
+    color: #C1D4DA;
+    font-size: 16px;
+    font-weight: 600;
+}
+.offer__title{
+    color: #FFFFFF;
+    font-size: 22px;
+    font-weight: 800;
+}
+.sub__offer__item{
+    margin-top: 0;
+}
+.offer__item--cupon{
+    color: #FFFFFF;
+    
+}
+.offer__item--cupon b{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.deal--btn{
+    background-color: #FFC54D;
+}
+.deals__cost__number,.deals__cost__number ~ span{
+    color: #FFC54D;
+}
+
+.deal--btn:hover{
+    background-color: #ff4a3c;
+}
+
+
+.deals{
+    background-image: url("../img/Hotel-img/Banner-deals.svg")
+}
+.btn_search_hotel{
+    width: 200px;
+    height: 68px;
+}
+.sub_menu{
+    display: none;
+}

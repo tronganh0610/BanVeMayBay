@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/admin/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/booking/booking.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/ticket/insertTicket.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/ptithcm/controller/BookingController.java=UTF-8
+encoding//src/ptithcm/controller/DetailController.java=UTF-8
+encoding//src/ptithcm/controller/PlaneController.java=UTF-8
+encoding//src/ptithcm/controller/SearchController.java=UTF-8
+encoding//src/ptithcm/controller/TicketController.java=UTF-8

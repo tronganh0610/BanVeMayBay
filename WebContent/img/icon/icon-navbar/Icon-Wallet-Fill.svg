@@ -1,0 +1,8 @@
+<svg id="Icon_Wallet_Fill" data-name="Icon/Wallet/Fill" xmlns="http://www.w3.org/2000/svg" width="15.972" height="16.086" viewBox="0 0 15.972 16.086">
+  <g id="wallet-3">
+    <path id="Combined-Shape" d="M14.375,0a1.657,1.657,0,0,1,1.6,1.711V12.664a1.657,1.657,0,0,1-1.6,1.711H1.6A1.657,1.657,0,0,1,0,12.664V1.711A1.657,1.657,0,0,1,1.6,0Z" transform="translate(0 1.711)" fill="#fff"/>
+    <path id="Path" d="M1.2,0A1.243,1.243,0,0,0,0,1.283V2.4H3.662a.773.773,0,0,1,.565.251l.8.856a1.838,1.838,0,0,0,2.727,0l.8-.856A.773.773,0,0,1,9.116,2.4h3.662V1.283A1.243,1.243,0,0,0,11.58,0Z" transform="translate(1.182 7.623)" fill="#328cff"/>
+    <path id="Path-2" data-name="Path" d="M0,1.283v3.85H12.778V1.283A1.243,1.243,0,0,0,11.58,0H1.2A1.243,1.243,0,0,0,0,1.283Z" transform="translate(1.597)" fill="#328cff"/>
+    <path id="Path_Copy_2" data-name="Path Copy 2" d="M0,1.283V3.765H15.406V1.283A1.371,1.371,0,0,0,13.962,0H1.444A1.371,1.371,0,0,0,0,1.283Z" transform="translate(0.283 3.423)" fill="#fff"/>
+  </g>
+</svg>

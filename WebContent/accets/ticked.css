@@ -1,0 +1,102 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+   }
+
+.modal{
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+
+}
+
+.modal__overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    
+}
+.modal__inner{
+	    position: relative; 
+}
+
+.modal__body{
+    background-color: var(--white-color);
+    position: relative;
+    margin: auto;
+    border-radius: 12px;
+    width: 800px;
+    height: 310px;
+    top: 150px;
+    box-shadow: 0 5px 10px rgb(0 0 0 / 80%);
+    overflow: hidden;
+}
+
+.ticked__header {
+    height: 50px;
+    width: 100%;
+    background-color: #70a11b;
+    padding: 15px 0 0 15px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.ticked__header span {
+    font-size: 28px;
+    font-weight: 800;
+    text-shadow: 2px 2px black;
+}
+.ticked__header p{
+    font-size: 20px;
+    font-weight: 600;
+}
+.tickedFrom_to {
+    margin-right: 40px;
+    display: flex;
+    justify-content: space-between;
+    width: 370px;
+    align-items:center;
+}
+.ticked__body {
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+    font-weight: 700;
+}
+.ticked_infor{
+    flex: 1;
+}
+
+.infor_passenger {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 15px;
+    padding-left: 30px;
+}
+.QR_Code {
+    border-left: 4px dashed #70a11b;
+    margin-left: 15px;
+}
+.ticked__footer {
+    height: 50px;
+    width: 100%;
+    background-color: #70a11b;
+    padding: 15px 0 0 15px;
+}
+.infor_flight {
+    height: 80px;
+    border-top: 3px solid #70a11b;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-around;
+}
+.infor_flight span ,.infor_passenger span {
+    color: #70a11b;
+}
+

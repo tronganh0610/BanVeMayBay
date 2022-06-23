@@ -1,0 +1,44 @@
+.user_info--user i{
+    font-size: 16px;
+    font-weight: 700;
+    margin: 10px 0 0 30px;
+}
+.user_info--user {
+    width: 120px;
+}
+.user_info--user span{
+    margin:auto 12px;
+}
+.grid{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 140px;
+}
+.best_offer{
+    height:115px;
+    margin: 0 60px 30px 60px;
+}
+.best_offer--item{
+    border-bottom: none;
+}
+.booking__container{
+    margin: 0 60px 50px 60px;
+    border-radius: 8px;
+    background-color: #fff;
+    height: 500px;
+    width: 90%;
+    font-size: 18px;
+    font-weight: 700;
+}
+.decorator_line{
+    margin-top: 2px;
+}
+.btn {
+    width: 180px;
+    height: 50px;
+    background-color: #0a69da;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 800;
+    color: #fff;
+}
